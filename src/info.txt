@@ -1,0 +1,3 @@
+Accessing an API using React and Redux
+
+Using free colour API: http://www.colr.org/json/color/random (If required use free Postman tool to see and explore JSON)
